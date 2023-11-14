@@ -1,4 +1,4 @@
-package com.example.resttempl.model;
+package com.evil.rest.model;
 public class User {
     private int id;
     private String name;

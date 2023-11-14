@@ -1,4 +1,4 @@
-package com.example.resttempl.repository;
+package com.evil.rest.repository;
 
 
 import com.evil.rest.model.User;
